@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "grammar_nazi"
-  s.version     = '0.1.5'
+  s.version     = '0.1.6'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['webmstk']
   s.email       = 'webmstk@mail.ru'
