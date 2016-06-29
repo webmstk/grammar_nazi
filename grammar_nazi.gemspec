@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'grammar_nazi'
-  s.version     = '0.1.4'
+  s.version     = '0.1.5'
   s.date        = '2016-06-25'
   s.summary     = 'Spell checker'
-  s.description = 'speller.yandex wrapper for ruby'
+  s.description = 'ruby wrapper for speller.yandex.net'
   s.authors     = ['webmstk']
   s.email       = 'webmstk@mail.ru'
   s.files       = %w(
