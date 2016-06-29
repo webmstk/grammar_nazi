@@ -1,4 +1,3 @@
-require 'spec_helper'
 require 'grammar_nazi'
 
 RSpec.describe GrammarNazi, '#check' do

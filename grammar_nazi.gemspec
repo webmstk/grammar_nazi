@@ -1,4 +1,3 @@
-
 Gem::Specification.new do |s|
   s.name        = "grammar_nazi"
   s.version     = '0.1.5'
